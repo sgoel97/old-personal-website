@@ -1,7 +1,7 @@
 {
-  "name": "samarth-goel",
+  "name": "samarth-goel-old",
   "private": true,
-  "description": "Samarth's Personal Website",
+  "description": "Samarth's Old Personal Website",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
@@ -13,12 +13,12 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "@chakra-ui/gatsby-plugin": "^3.1.1",
+    "@chakra-ui/gatsby-plugin": "^3.0.6",
     "@chakra-ui/react": "^2.4.1",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "framer-motion": "^7.6.12",
-    "gatsby": "^5.3.3",
+    "gatsby": "^4.25.0",
     "gatsby-omni-font-loader": "^2.0.2",
     "gatsby-plugin-gatsby-cloud": "^5.2.0",
     "gatsby-plugin-manifest": "^5.2.0",
